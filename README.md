@@ -1,0 +1,4 @@
+# Web Weavers
+
+Web weavers is a non profit organization to help reach out to students who want to be developers but somehow are not getting enough resources or due to some other personal reasons are not able to continue with web dev. 
+However, we are not limited to that, alongside, we will be building a great community of developers so that we push each other and grow together. We, as human beings have a basic tendency to remain happy in the circle that we have but that basic instinct becomes the biggest barrier when it comes to gaining more knowledge. Here at web weavers lets come together and break that barrier and help each other to become good developers.
