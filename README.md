@@ -25,42 +25,42 @@ We aim to provide an excellent learning environment which is free of cost to eve
 - [Madhav Bahl](https://github.com/MadhavBahlMD)
 <br/>
 
-<img src="https://avatars1.githubusercontent.com/u/26179770?s=400&v=4" height="80">
+<img src="https://avatars1.githubusercontent.com/u/26179770?s=400&v=4" height="90" style="margin-left: 40px;">
 
 - [Dravisha Katoch -- Co-founder, manager and social media marketing](https://www.facebook.com/profile.php?id=100009966211895)
 <br/>
+<img src="https://user-images.githubusercontent.com/26179770/36626301-6ac8c24c-1956-11e8-940f-a0902ba521a9.png" style="text-align: center;" height="90">
 
-> Send your photo dravisha
 
-<!-- <img src="https://avatars1.githubusercontent.com/u/26179770?s=400&v=4" height="80">  -->
+<!-- <img src="https://avatars1.githubusercontent.com/u/26179770?s=400&v=4" height="90">  -->
 
 ### Discipline Moderators
 
 - [Onkar Nishant -- Maintains Code Of Conduct](https://www.facebook.com/onkar.nishant)
 <br/>
 
-<img src="https://user-images.githubusercontent.com/26179770/36625610-ec6148b4-1948-11e8-9ed0-2fa9512e8a2c.png" height="80">
+<img src="https://user-images.githubusercontent.com/26179770/36625610-ec6148b4-1948-11e8-9ed0-2fa9512e8a2c.png" style="margin-left: 40px;" height="90">
 
 
 ### Tech Moderators
 
 - [Garima Yadav -- Web Tech Moderator](https://github.com/gary115)
 
-<img src="https://avatars0.githubusercontent.com/u/25628346?s=400&v=4" height="80">
+<img src="https://avatars0.githubusercontent.com/u/25628346?s=400&v=4" height="90" style="margin-left: 40px;">
 
 ### Graphic Designers
 
-- [Naman Khurpia -- Lead Designer](https://www.facebook.com/photo.php?fbid=1356997294385109&set=a.101183723299812.2015.100002245534749&type=3&theater)
+- [Naman Khurpia -- Lead Designer](https://www.facebook.com/photo.php?fbid=1356997294385109&set=a.101183723299812.2040.100002245534749&type=3&theater)
 <br/>
 
-<img src="https://user-images.githubusercontent.com/26179770/36625623-2dde921a-1949-11e8-92b8-091a9f3470b5.png" height="80">
+<img src="https://user-images.githubusercontent.com/26179770/36625623-2dde921a-1949-11e8-92b8-091a9f3470b5.png" style="margin-left: 40px;" height="90">
 
 ### Mentors
 
 - [Abhinav Das -- Android Mentor](https://github.com/abhinav-adtechs)
 <br/>
 
-<img src="https://avatars3.githubusercontent.com/u/13555405?s=400&v=4" height="80">
+<img src="https://avatars3.githubusercontent.com/u/13555405?s=400&v=4" height="90" style="margin-left: 40px;">
 
 
 For feedback, questions or suggestions get in contact with
