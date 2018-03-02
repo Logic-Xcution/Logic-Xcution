@@ -42,11 +42,20 @@ We aim to provide an excellent learning environment which is free of cost to eve
 <img src="https://user-images.githubusercontent.com/26179770/36625610-ec6148b4-1948-11e8-9ed0-2fa9512e8a2c.png" style="margin-left: 40px;" height="90">
 
 
-### Tech Moderators
+### Tech Leads
 
-- [Garima Yadav -- Web Tech Moderator](https://github.com/gary115)
+- [Garima Yadav -- Web Tech Lead](https://github.com/gary115)
 
 <img src="https://avatars0.githubusercontent.com/u/25628346?s=400&v=4" height="90" style="margin-left: 40px;">
+
+- [Harshit Shandilya -- Hardware Lead](#)
+
+<img src="https://user-images.githubusercontent.com/26179770/36893678-f809e69a-1e2e-11e8-83fc-48ccb588432b.png" height="90" style="margin-left: 40px;">
+
+- [Saransh Goyal -- Competitive Lead](#)
+
+<img src="https://user-images.githubusercontent.com/26179770/36893938-d7e60eba-1e2f-11e8-9b76-5b1d286502c2.png" height="90" style="margin-left: 40px;">
+
 
 ### Graphic Designers
 
